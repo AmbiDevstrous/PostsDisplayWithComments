@@ -9,6 +9,7 @@ import Foundation
 final class PostDisplayConfig : ObservableObject
 {
     var posts: [Post]?
+    var displayedPosts:[DisplayedPost]?
     @Published var isLoading = false
     private(set) var localizedDescription: String?
     public var service = GetPostsService()
@@ -19,6 +20,11 @@ final class PostDisplayConfig : ObservableObject
         Task {
             do {
                 self.posts = try await self.service.fetchPosts()
+                self.displayedPosts = []
+                for post in self.posts! {
+                    var displayedPost = DisplayedPost(post: post)
+                    displayedPosts!.append(displayedPost)
+                }
                 self.isLoading = false
 
             } catch {

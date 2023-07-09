@@ -7,8 +7,23 @@
 
 import Foundation
 
-final class DisplayedPost : ObservableObject, Identifiable{
-    var post:Post?
-    @Published var displayComments:Bool = false
+//struct DisplayPost: Identifiable {
+//    let post:Post
+//
+//}
+struct DisplayedPost: Identifiable {
+    let userId :Int
+    let id : Int
+    let title: String
+    let body: String
+    var displayComments:Bool = false
+    
+    init(post:Post) {
+        userId = post.userId
+        id = post.id
+        title = post.title
+        body = post.body
+    }
+
 }
 
