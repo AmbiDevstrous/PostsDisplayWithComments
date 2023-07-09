@@ -20,9 +20,7 @@ final class PostDisplayConfig : ObservableObject
             do {
                 self.posts = try await self.service.fetchPosts()
                 self.isLoading = false
-                let fuckU = 1
-                let fukthisShit = 2
-                let fucknae = fuckU + fukthisShit
+
             } catch {
                 localizedDescription = error.localizedDescription
             }

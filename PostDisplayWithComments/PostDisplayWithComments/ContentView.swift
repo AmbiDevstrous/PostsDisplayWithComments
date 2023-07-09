@@ -19,10 +19,12 @@ struct ContentView: View {
                     //if there is any delay between fetching data and displaying, show loading view.
                 } else if let posts = config.posts {
                     SuccessView(config: config, posts: posts)
-                } else {
+                } else if config.localizedDescription == nil {
                     Button("Fetch Posts!") {
                         config.fetch()
                     }
+                }else {
+                    ErrorView(localizedError: config.localizedDescription!)
                 }
     }
     
@@ -31,6 +33,16 @@ struct ContentView: View {
         var body: some View {
             Text("Loading ...")
                 .font(.subheadline)
+                .padding()
+        }
+    }
+    
+    struct ErrorView: View {
+        
+        let localizedError: String
+        
+        var body: some View {
+            Text(localizedError)
                 .padding()
         }
     }
