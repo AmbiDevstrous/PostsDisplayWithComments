@@ -47,19 +47,19 @@ struct ContentView: View {
         @ObservedObject
         var config: PostDisplayConfig
         let displayedPosts: [DisplayedPost]
-
+        
         var body: some View {
             List {
                 //provides swipe delete?
                 Section { // to seperate the list between header and its content sections.
-                    ForEach(displayedPosts) { post in
+                    ForEach(config.displayedPosts!) { post in
                         HStack {
                             Text(post.title)
                             Spacer()
                             VStack {
                                 Image(systemName: "heart.fill")
                                 Button(""){
-
+                                    config.alteredPost = config.displayedPosts
                                 }
                             }
 

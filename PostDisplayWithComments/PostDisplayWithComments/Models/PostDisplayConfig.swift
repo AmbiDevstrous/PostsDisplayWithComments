@@ -10,6 +10,7 @@ final class PostDisplayConfig : ObservableObject
 {
     var posts: [Post]?
     var displayedPosts:[DisplayedPost]?
+    var alteredPost:[DisplayedPost]?
     @Published var isLoading = false
     private(set) var localizedDescription: String?
     public var service = GetPostsService()
