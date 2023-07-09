@@ -54,17 +54,22 @@ struct ContentView: View {
                 Section { // to seperate the list between header and its content sections.
                     ForEach(config.displayedPosts!) { post in
                         HStack {
-                            Text(post.title)
+                            Text(post.title).frame(width: 100, height: 100, alignment: .leading).lineLimit(1)
                             Spacer()
                             VStack {
-                                Image(systemName: "heart.fill")
+                                if post.displayComments == true {
+                                    Image(systemName: "heart.fill").frame(width: 40, height: 100)
+                                }
+                                else {
+                                    Text(post.body).frame(width: 170, height: 100, alignment: .leading).lineLimit(5)
+                                }
                                 Button(""){
                                     config.alteredPost = []
                                     for p in config.displayedPosts! {
                                         if post.id == p.id {
                                             var dp = DisplayedPost(displayedPost: p)
                                             dp.displayComments = !post.displayComments
-                                        
+                                            
                                             config.alteredPost!.append(dp)
                                         }
                                         else {
@@ -75,11 +80,22 @@ struct ContentView: View {
                                     config.reloader = !config.reloader
                                 }
                             }
-
+                            
                         }
+                         
+//                            if post.displayComments == true {
+//                                Spacer()
+//                                Text(post.body)
+//                            }
+                            
+                    
                     }
                 } header: {
-                    Text("Post title")
+                    HStack {
+                        Text("Title").frame(width: 100, alignment: .leading)
+                        Spacer()
+                        Text("Content").frame(width: 170, alignment: .leading)
+                    }
                 }
             }
         }

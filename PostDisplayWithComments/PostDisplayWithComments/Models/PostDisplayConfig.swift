@@ -14,8 +14,14 @@ final class PostDisplayConfig : ObservableObject
     @Published var isLoading = false
     private(set) var localizedDescription: String?
     public var service = GetPostsService()
+    public var useAltered = false
     @Published var reloader = false
-
+    
+    func checkForReload() {
+        if alteredPost != nil {
+            displayedPosts = alteredPost
+        }
+    }
     
     func fetch()  {
         self.isLoading = true
