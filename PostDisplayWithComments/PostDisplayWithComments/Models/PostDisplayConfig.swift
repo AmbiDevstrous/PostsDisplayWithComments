@@ -13,6 +13,7 @@ final class PostDisplayConfig : ObservableObject
     @Published var isLoading = false
     private(set) var localizedDescription: String?
     public var service = GetPostsService()
+    @Published var reloader = false
 
     
     func fetch()  {

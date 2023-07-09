@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F9DF0BEF-C461-463E-9F4A-66DC8FB436B3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "PostDisplayConfig"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - 2f5897abe86ebe67"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of PostDisplayWithComments.PostDisplayConfig.displayedPosts : Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - badd63b79e3795c4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.displayedPosts.getter : Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - ea1dcad5a2eafab0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.displayedPosts.setter : Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - dbf5818bbd2bdb3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.displayedPosts.modify : Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - 39f686738b6dcda8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.displayedPosts.modify : Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - ed778e2328ea6794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.$displayedPosts.getter : Combine.Published&lt;Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;&gt;.Publisher"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - ed778e2328ea6794"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.$displayedPosts.setter : Combine.Published&lt;Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;&gt;.Publisher"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "180">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - 3d63160f384138e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.$displayedPosts.modify : Combine.Published&lt;Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;&gt;.Publisher"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - fac68e71e74fb09a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.$displayedPosts.modify : Combine.Published&lt;Swift.Optional&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;&gt;&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "A1135CCD-45DF-46A1-862C-79468020CEAB - b8a3ea564131206e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PostDisplayWithComments.PostDisplayConfig.init() -&gt; PostDisplayWithComments.PostDisplayConfig"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "11"
+                  endingLineNumber = "11"
+                  offsetFromSymbolStart = "75">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D9921863-FF1C-4A16-A289-4F377101B361"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CB4D60F-E66F-4BF6-9DD1-6B6A34D50B94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CB4D60F-E66F-4BF6-9DD1-6B6A34D50B94 - 420f08b7f29fd24f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "418">
+               </Location>
+               <Location
+                  uuid = "2CB4D60F-E66F-4BF6-9DD1-6B6A34D50B94 - 219200ce246cbcbe"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "2CB4D60F-E66F-4BF6-9DD1-6B6A34D50B94 - 732f8d69a9e6964d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "2CB4D60F-E66F-4BF6-9DD1-6B6A34D50B94 - cbfc0707a91f44a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "82"
+                  endingLineNumber = "82"
+                  offsetFromSymbolStart = "59">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "259FB0FB-B343-47E9-BA32-081F17992926"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E919B6F-CC97-4DA0-B80D-2079EAA1A80D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "76F1349C-B861-475F-B284-507A961D87A4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "76F1349C-B861-475F-B284-507A961D87A4 - 420f08b7f29fd357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "159">
+               </Location>
+               <Location
+                  uuid = "76F1349C-B861-475F-B284-507A961D87A4 - 420f08b7f29fd357"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "331">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7CDAF24F-6CBB-4840-80DA-4B5B0E17E8A8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7CDAF24F-6CBB-4840-80DA-4B5B0E17E8A8 - bae159bcba88b0df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PostDisplayWithComments.PostDisplayConfig.fetch() -&gt; ()"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  uuid = "7CDAF24F-6CBB-4840-80DA-4B5B0E17E8A8 - 7cb670ab5989f6e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(2) await resume partial function for closure #1 @Sendable () async -&gt; () in PostDisplayWithComments.PostDisplayConfig.fetch() -&gt; ()"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7CDAF24F-6CBB-4840-80DA-4B5B0E17E8A8 - f47952b686a57459"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PostDisplayWithComments.PostDisplayConfig.fetch() -&gt; ()"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "7CDAF24F-6CBB-4840-80DA-4B5B0E17E8A8 - 12bd503594c85a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Sendable () async -&gt; () in PostDisplayWithComments.PostDisplayConfig.fetch() -&gt; ()"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "77">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AF3A2507-F0DF-41AD-BAB9-A64C77CF50BF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A703B3C-10BA-4625-8A94-4D057D5328F7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "fetchPosts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A703B3C-10BA-4625-8A94-4D057D5328F7 - 420f08b7f29fdcb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "750">
+               </Location>
+               <Location
+                  uuid = "1A703B3C-10BA-4625-8A94-4D057D5328F7 - 732f8d69a9e698b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "1509">
+               </Location>
+               <Location
+                  uuid = "1A703B3C-10BA-4625-8A94-4D057D5328F7 - cbfc0707a91fab3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for PostDisplayWithComments.GetPostsService.fetchPosts() async throws -&gt; Swift.Array&lt;PostDisplayWithComments.Post&gt;"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/Models/PostDisplayConfig.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "390">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "549903CD-54E9-408E-9307-5C89ACE27ED1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/Models/PostDisplayConfig.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "fetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

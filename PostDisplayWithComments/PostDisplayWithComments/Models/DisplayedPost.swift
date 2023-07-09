@@ -25,5 +25,11 @@ struct DisplayedPost: Identifiable {
         body = post.body
     }
 
+    init(displayedPost:DisplayedPost) {
+        userId = displayedPost.userId
+        id = displayedPost.id
+        title = displayedPost.title
+        body = displayedPost.body
+    }
 }
 
