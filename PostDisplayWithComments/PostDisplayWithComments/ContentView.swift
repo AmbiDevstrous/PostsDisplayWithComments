@@ -58,7 +58,17 @@ struct ContentView: View {
                 //provides swipe delete?
                 Section { // to seperate the list between header and its content sections.
                     ForEach(posts) { post in
-                        Text(post.title)
+                        HStack {
+                            Text(post.title)
+                            Spacer()
+                            VStack {
+                                Image(systemName: "heart.fill")
+                                Button(""){
+                                    
+                                }
+                            }
+                           
+                        }
                     }
                 } header: {
                     Text("Post title")
