@@ -59,7 +59,20 @@ struct ContentView: View {
                             VStack {
                                 Image(systemName: "heart.fill")
                                 Button(""){
+                                    config.alteredPost = []
+                                    for p in config.displayedPosts! {
+                                        if post.id == p.id {
+                                            var dp = DisplayedPost(displayedPost: p)
+                                            dp.displayComments = !post.displayComments
+                                        
+                                            config.alteredPost!.append(dp)
+                                        }
+                                        else {
+                                            config.alteredPost!.append(post)
+                                        }
+                                    }
                                     config.alteredPost = config.displayedPosts
+                                    config.reloader = !config.reloader
                                 }
                             }
 

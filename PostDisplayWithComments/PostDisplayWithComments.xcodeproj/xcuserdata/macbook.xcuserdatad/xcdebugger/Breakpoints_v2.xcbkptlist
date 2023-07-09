@@ -519,5 +519,85 @@
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27DBBA73-9BAE-4FFA-979D-805A5350859B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E175DB5B-51CE-41D1-A5E3-397E7B29BAF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FF6C7A64-9CFD-47A9-8E03-D9C030B91154"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PostDisplayWithComments/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FF6C7A64-9CFD-47A9-8E03-D9C030B91154 - be330758b852cc7b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;)&gt;&gt;&gt;, SwiftUI.EmptyView&gt; in PostDisplayWithComments.ContentView.SuccessView.body.getter : some"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "211">
+               </Location>
+               <Location
+                  uuid = "FF6C7A64-9CFD-47A9-8E03-D9C030B91154 - d1da15979dad96fd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;)&gt;&gt;&gt; in closure #1 () -&gt; SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.ForEach&lt;Swift.Array&lt;PostDisplayWithComments.DisplayedPost&gt;, Swift.Int, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Text, SwiftUI.Spacer, SwiftUI.VStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Image, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt;&gt;)&gt;&gt;&gt;, SwiftUI.EmptyView&gt; in PostDisplayWithComments.ContentView.SuccessView.body.getter : some"
+                  moduleName = "PostDisplayWithComments"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/iOS%20software/PostsDisplayWithComments/PostDisplayWithComments/PostDisplayWithComments/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "211">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>
